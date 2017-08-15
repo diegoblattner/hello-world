@@ -1,0 +1,16 @@
+{
+  "lerna": "2.0.0",
+  "version": "0.0.4",
+  "packages": [
+    "packages/component/*",
+    "apps/*"
+  ],
+  "commands": {
+    "publish": {
+      "ignore": "dojo-app-*"
+    },
+    "bootstrap": {
+      "ignore": "dojo-app-native"
+    }
+  }
+}

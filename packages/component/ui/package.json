@@ -1,0 +1,17 @@
+{
+  "name": "dojo-component-ui",
+  "version": "0.0.4",
+  "description": "Component",
+  "main": "index.js",
+  "author": "Robert Donnelly",
+  "license": "MIT",
+  "scripts": {
+    "linstall": "npm install"
+  },
+  "devDependencies": {
+    "babel-preset-react-app": "^3.0.2"
+  },
+  "dependencies": {
+    "react": "^15.6.1"
+  }
+}

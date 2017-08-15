@@ -1,0 +1,114 @@
+{
+	"name": "dojo-component-ui",
+	"versions": {
+		"0.0.2": {
+			"name": "dojo-component-ui",
+			"version": "0.0.2",
+			"description": "Component",
+			"main": "index.js",
+			"author": {
+				"name": "Robert Donnelly"
+			},
+			"license": "MIT",
+			"scripts": {
+				"linstall": "npm install"
+			},
+			"devDependencies": {
+				"babel-preset-react-app": "^3.0.2"
+			},
+			"dependencies": {
+				"react": "^15.6.1"
+			},
+			"_id": "dojo-component-ui@0.0.2",
+			"_npmVersion": "5.3.0",
+			"_nodeVersion": "8.3.0",
+			"_npmUser": {},
+			"dist": {
+				"integrity": "sha512-DK/X94A5Qubn7RO2yF0UDBFPezexPgDjnz1HPSixSAn2YDelwImYqjDM3hoj4lwvmWaSQqdm49KH8c5Eqkfu3w==",
+				"shasum": "9443df8c052d04d4473b413cd5c37090a67ee047",
+				"tarball": "http://localhost:4873/dojo-component-ui/-/dojo-component-ui-0.0.2.tgz"
+			}
+		},
+		"0.0.3": {
+			"name": "dojo-component-ui",
+			"version": "0.0.3",
+			"description": "Component",
+			"main": "index.js",
+			"author": {
+				"name": "Robert Donnelly"
+			},
+			"license": "MIT",
+			"scripts": {
+				"linstall": "npm install"
+			},
+			"devDependencies": {
+				"babel-preset-react-app": "^3.0.2"
+			},
+			"dependencies": {
+				"react": "^15.6.1"
+			},
+			"_id": "dojo-component-ui@0.0.3",
+			"_npmVersion": "5.3.0",
+			"_nodeVersion": "8.3.0",
+			"_npmUser": {},
+			"dist": {
+				"integrity": "sha512-p1Moo9oa9WRhUXt0JyNClLkoOq07HaGsgAVBxG4N/mfgsZUxLOJuoeOwGf3gFsb8X6tQCtgKVZPz+w1c7IoiOw==",
+				"shasum": "b37560dcaba4ab4792a4956583cf35bffc8cda79",
+				"tarball": "http://localhost:4873/dojo-component-ui/-/dojo-component-ui-0.0.3.tgz"
+			}
+		},
+		"0.0.4": {
+			"name": "dojo-component-ui",
+			"version": "0.0.4",
+			"description": "Component",
+			"main": "index.js",
+			"author": {
+				"name": "Robert Donnelly"
+			},
+			"license": "MIT",
+			"scripts": {
+				"linstall": "npm install"
+			},
+			"devDependencies": {
+				"babel-preset-react-app": "^3.0.2"
+			},
+			"dependencies": {
+				"react": "^15.6.1"
+			},
+			"_id": "dojo-component-ui@0.0.4",
+			"_npmVersion": "5.3.0",
+			"_nodeVersion": "8.3.0",
+			"_npmUser": {},
+			"dist": {
+				"integrity": "sha512-N8opTQjcCm32kRAllvpbTwCbICYxZql/d8Lc+4HyZjheG6rPrpDoaOrp0oQE01TtzOp+wzI/EU4fJ4jDRdfTrA==",
+				"shasum": "40ab20904c3be4eb0c68227f2ce2e450e2428ed0",
+				"tarball": "http://localhost:4873/dojo-component-ui/-/dojo-component-ui-0.0.4.tgz"
+			}
+		}
+	},
+	"dist-tags": {
+		"latest": [
+			"0.0.2",
+			"0.0.3",
+			"0.0.4"
+		]
+	},
+	"_distfiles": {},
+	"_attachments": {
+		"dojo-component-ui-0.0.2.tgz": {
+			"shasum": "9443df8c052d04d4473b413cd5c37090a67ee047",
+			"version": "0.0.2"
+		},
+		"dojo-component-ui-0.0.3.tgz": {
+			"shasum": "b37560dcaba4ab4792a4956583cf35bffc8cda79",
+			"version": "0.0.3"
+		},
+		"dojo-component-ui-0.0.4.tgz": {
+			"shasum": "40ab20904c3be4eb0c68227f2ce2e450e2428ed0",
+			"version": "0.0.4"
+		}
+	},
+	"_uplinks": {},
+	"_rev": "9-2b7376d44d5eb3e0",
+	"readme": "ERROR: No README data found!"
+}

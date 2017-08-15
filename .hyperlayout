@@ -1,0 +1,15 @@
+[
+  [
+    [
+      "cd apps/web && clear",
+      "cd apps/desktop && clear",
+      "cd apps/native && clear"
+    ]
+  ],
+  [
+    "cd packages/components/ui && clear"
+  ],
+  [
+    "cd apps/server && clear"
+  ]
+]

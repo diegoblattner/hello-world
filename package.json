@@ -1,0 +1,27 @@
+{
+  "name": "dojo-monorepo",
+  "version": "1.0.0",
+  "description": "Multi App Monorepo",
+  "main": "index.js",
+  "author": "Robert Donnelly",
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "cd sinopia && npm install",
+    "sin": "cd sinopia && npm run sin",
+    "unsin": "cd sinopia && npm run unsin",
+    "lerna-publish": "lerna publish --skip-git"
+  },
+  "dependencies": {
+    "lerna": "^2.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.4.1",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-config-standard-react": "^5.0.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-node": "^5.1.1",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-react": "^7.2.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}
